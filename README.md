@@ -2,7 +2,7 @@ v# DSA Solution Platform
 
 The **DSA Solution Platform** is an open-source project designed to help users practice, submit, and review problems in Data Structures and Algorithms (DSA). It provides an interactive environment for users to hone their problem-solving skills, collaborate with others, and track their progress.
  v zb
-## ✨ Key Featureszvbzcb
+## ✨ Key Featureszvbzcbgfg
 
 - **User Authentication**  
   - Sign up, log in, and manage your profile using secure authentication (JWT).
